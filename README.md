@@ -8,6 +8,7 @@
 ### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a> <br>
 
 ### Please Rate & do follow my profile & all the apps on play store and follow the blog
-![morph_svg](https://user-images.githubusercontent.com/43451046/93579605-4ed57000-f9bc-11ea-853d-7a225cf72c02.gif)
 
 ### :closed_book: Latest <a href="https://blacenova.wordpress.com/blog-2/">Blogs</a> Posts<br>
+
+![morph_svg](https://user-images.githubusercontent.com/43451046/93579605-4ed57000-f9bc-11ea-853d-7a225cf72c02.gif)
