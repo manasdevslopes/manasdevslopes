@@ -7,8 +7,6 @@
 
 ### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a> <br>
 
-### Get Some Cool UI Colors specially designed for developers & passionate designers: <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a><br>
-
 ### Please Rate & do follow my profile & all the apps on play store and follow the blog
 ![morph_svg](https://user-images.githubusercontent.com/43451046/93579605-4ed57000-f9bc-11ea-853d-7a225cf72c02.gif)
 
