@@ -1,4 +1,4 @@
-### Hola, I'm <a target="_blank" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">Manas Vijaywargiya!</a> :wave:
+### Hola, I'm <a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/" target="_blank">Manas Vijaywargiya!</a> :wave:
 ### I'm an extremely passionate about iOS App Development using Swift | SwiftUI
 
 :telescope: <a href="https://blacenova.wordpress.com/2021/01/17/first-steps-in-swift/">Read SwiftUI Blogs</a>  🌱 <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>
