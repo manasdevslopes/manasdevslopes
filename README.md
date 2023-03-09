@@ -39,13 +39,16 @@
    
    💁🏻 I share Insights, Apps, and Tips on iOS development on my Instagram / LinkedIn.
    
-
 <br>
+
+
+
 ### Languages and Tools I worked on:
 
 SwiftUI | Swift | SPM | HTML5 | CSS3 | Sass | ReactNative | Xcode | iOS | Visual Studio Code | Firebase | GitHub | UIKit
 
 <br>
+
 ### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a> 
 
 <br>
