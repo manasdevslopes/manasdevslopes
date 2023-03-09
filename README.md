@@ -2,10 +2,13 @@
 ### I'm an extremely passionate about iOS App Development using Swift | SwiftUI
 
 :telescope: <a href="https://blacenova.wordpress.com/2021/01/17/first-steps-in-swift/">Read SwiftUI Blogs</a>  🌱 <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>
-
+<br>
 ### These are all my Swift Packages using SwiftUI - <br><a href="https://github.com/manasdevslopes/AwesomeToastPackage">Awesome Toast</a><br><a href="https://github.com/manasdevslopes/AwesomeNetworkPackage">Awesome Netowrk</a>
 
+<br>
 🌱 For SwiftUI docs & projects, use this link. <a style="font-weight:bold;" href="https://github.com/KanishkVijaywargiya/SwiftUI.readme/blob/main/README.md">SwiftUI</a>
+<br>
+
 
 ### Best of my iOS Works: 
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/CoreDataToJSON_JSONToCoreData_SwiftUI">CoreData To JSON & vice versa</a>
@@ -25,7 +28,8 @@
 <br><a style="font-weight:bold;" href="https://github.com/KanishkVijaywargiya/FoodZap/tree/Development">FoodZap App</a>
 
 
-About Me 😎<br>
+
+<br>About Me 😎<br>
 
    📱 iOS Developer / React Native Developer<br>
    
@@ -33,16 +37,18 @@ About Me 😎<br>
    
    ✍🏻 I write blogs on iOS development on wordpress | <a href="https://blacenova.wordpress.com/blog-2/">BlaceNova Blogs</a> |<br>
    
-   💁🏻 I share Insights, Apps, and Tips on iOS development on my Instagram / LinkedIn.<br>
+   💁🏻 I share Insights, Apps, and Tips on iOS development on my Instagram / LinkedIn.
    
 
+<br>
 ### Languages and Tools I worked on:
 
 SwiftUI | Swift | SPM | HTML5 | CSS3 | Sass | ReactNative | Xcode | iOS | Visual Studio Code | Firebase | GitHub | UIKit
 
-
+<br>
 ### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a> 
 
+<br>
 Reach me via 👇
 <br><a style="font-weight:bold;" href="https://www.instagram.com/_iosmanas/">Instagram</a>
 <br><a style="font-weight:bold;" href="https://www.linkedin.com/in/manas-vijaywargiya-578375134/">LinkedIn</a>
