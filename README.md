@@ -1,11 +1,14 @@
 ### Hola, I'm <a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">Manas Vijaywargiya!</a> :wave:
 ### I'm an extremely passionate about iOS App Development using Swift | SwiftUI
 
-:telescope: <a href="https://blacenova.wordpress.com/2021/01/17/first-steps-in-swift/">Read SwiftUI Blogs</a>  🌱 <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>
-<br>
-### These are all my Swift Packages using SwiftUI - <br><a href="https://github.com/manasdevslopes/AwesomeToastPackage">Awesome Toast</a><br><a href="https://github.com/manasdevslopes/AwesomeNetworkPackage">Awesome Netowrk</a>
+:telescope: <a href="https://blacenova.wordpress.com/2021/01/17/first-steps-in-swift/">Read SwiftUI Blogs</a>  🌱 <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>  :telescope: <a href="https://gist.github.com/manasdevslopes">Read SwiftUI Gists</a>
 
 <br>
+### These are all my Swift Packages using SwiftUI - <br><a href="https://github.com/manasdevslopes/AwesomeToastPackage">Awesome Toast</a><br><a href="https://github.com/manasdevslopes/AwesomeNetworkPackage">Awesome Netowrk</a>
+<br>
+
+<br>
+
 🌱 For SwiftUI docs & projects, use this link. <a style="font-weight:bold;" href="https://github.com/KanishkVijaywargiya/SwiftUI.readme/blob/main/README.md">SwiftUI</a>
 <br>
 
