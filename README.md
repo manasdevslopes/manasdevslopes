@@ -7,8 +7,6 @@
 ### These are all my Swift Packages using SwiftUI - <br><a href="https://github.com/manasdevslopes/AwesomeToastPackage">Awesome Toast</a><br><a href="https://github.com/manasdevslopes/AwesomeNetworkPackage">Awesome Netowrk</a>
 <br>
 
-### manasdevslopes's gists - <a href="https://gist.github.com/manasdevslopes" target="_blank">All Gists</a><br>
-
 <br>
 
 🌱 For SwiftUI docs & projects, use this link. <a style="font-weight:bold;" href="https://github.com/KanishkVijaywargiya/SwiftUI.readme/blob/main/README.md">SwiftUI</a>
