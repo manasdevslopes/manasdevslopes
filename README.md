@@ -25,22 +25,28 @@
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Colors">Swift Colors</a>
 <br><br>
 
+
+### iOS Concepts Interviews Links : 
+<a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Basics">Swift Basics</a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_All_Rounders">SwiftUI All Rounders</a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftlyLearners_iOSInterview">SwiftlyLearners</a>
+<br><br>
+
+
+
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftfulFirebase_SwiftUI.git">SwiftUI with Firebase by Swiftful Thinking</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/CoreDataToJSON_JSONToCoreData_SwiftUI">CoreData To JSON & vice versa</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/ImageSaveCoreData_SwiftUI">Image Save with other items in FileManager and CoreData</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/FaceIDWithKeychain_SwiftUI">Face ID with Custom Keychain Property Wrapper</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_4_Accessory">SwiftUI all new stuffs, UIs, Core concept etc</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/BarcodeTextScanner_SwiftUI_VisionKit">QrCode Generator, Reader in normal, pick from Photos & VisionKit. Also, save it in PNG, PDF (PDFKit) & Photos. Much more.</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SOLIDPrincipleSwiftUI">S.O.L.I.D. Principles in Swift Concept</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/iOS15WidgetKitSwiftUI">Diff. collections of widgets using SwiftUI in iOS 15</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/AnimateAnythingWithSwiftUI">Animate Anything with SwiftUI</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/AlternateAppIconSwiftUI">Alternate App Icon</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/IconGeneratorMacOSAppSwiftUI">Icon Generator Mac App</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftfulCrypto">Crypto App using Combine</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/iDine_App_SwiftUI4_iOS16_Xcode14">iDine App</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Medi_Tracker_SwiftUI/tree/development">Meditracker App</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/HealthKit_iOS_App_SwiftUI">HealthKit App</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/QuizApp_SwiftUI">Quiz App</a>
 <br><a style="font-weight:bold;" href="https://github.com/KanishkVijaywargiya/FoodZap/tree/Development">FoodZap App</a>
 
 
