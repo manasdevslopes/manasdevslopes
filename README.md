@@ -30,7 +30,7 @@
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Basics">Swift Basics</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_All_Rounders">SwiftUI All Rounders</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftlyLearners_iOSInterview">SwiftlyLearners</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Advanced_Topics">Swift Advanced Topics - inout / Variadic </a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Advanced_Topics">Swift Advanced Topics - inout / Variadic / tuple / Closure</a>
 <br><br>
 
 
