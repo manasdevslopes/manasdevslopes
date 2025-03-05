@@ -38,7 +38,7 @@
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_UI_Topics">Matched Geometry Effect, Geometry Reader, Date Formats, TextView Styling, SizeClass SwiftUI, Custom Keyboard, TextField Menu, Dynamic Multi-Step ProgressBar, Optional Modifiers, Placeholder, Manual Orientation, Floating Bottom Sheet, App Scheme Changer, SFSymbol Effects, Custom Calendar, Phase Animations</a>
 <br><br>
 
-### Notifs SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Notifs_SwiftUI">Click Here</a> NotificationCenter with Post, Observer and Publisher, 
+### Notifs SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Notifs_SwiftUI">Click Here</a> NotificationCenter with Post, Observer and Publisher, Local Notifications
 <br><br>
 
 
