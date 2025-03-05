@@ -38,6 +38,10 @@
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_UI_Topics">Matched Geometry Effect, Geometry Reader, Date Formats, TextView Styling, SizeClass SwiftUI, Custom Keyboard, TextField Menu, Dynamic Multi-Step ProgressBar, Optional Modifiers, Placeholder, Manual Orientation, Floating Bottom Sheet, App Scheme Changer, SFSymbol Effects, Custom Calendar, Phase Animations</a>
 <br><br>
 
+### Notifs SwiftUI : NotificationCenter with Post, Observer and Publisher, 
+<a style="font-weight:bold;" href="https://github.com/manasdevslopes/Notifs_SwiftUI">Click Here</a>
+<br><br>
+
 
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftfulFirebase_SwiftUI.git">SwiftUI with Firebase by Swiftful Thinking</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/CoreDataToJSON_JSONToCoreData_SwiftUI">CoreData To JSON & vice versa</a>
