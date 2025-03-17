@@ -41,7 +41,6 @@
 ### Notifs SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Notifs_SwiftUI">Click Here</a> NotificationCenter with Post, Observer and Publisher, Local Notifications, Push Notification and its sources including links for testing in Simulator.
 
 ### Biometrics And Sensitive SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/BiometricsAndSensitive_SwiftUI">Click Here</a> For Sensitive Analysis, Privacy Sensitive and FaceID.
-<br><br>
 
 ### Storages SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Storages_SwiftUI">Click Here</a> SceneStorage, AppStorage with RawRepresentable.
 <br><br>
