@@ -43,6 +43,9 @@
 ### Biometrics And Sensitive SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/BiometricsAndSensitive_SwiftUI">Click Here</a> For Sensitive Analysis, Privacy Sensitive and FaceID.
 <br><br>
 
+### Storages SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Storages_SwiftUI">Click Here</a> SceneStorage, AppStorage with RawRepresentable.
+<br><br>
+
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftfulFirebase_SwiftUI.git">SwiftUI with Firebase by Swiftful Thinking</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/CoreDataToJSON_JSONToCoreData_SwiftUI">CoreData To JSON & vice versa</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/ImageSaveCoreData_SwiftUI">Image Save with other items in FileManager and CoreData</a>
