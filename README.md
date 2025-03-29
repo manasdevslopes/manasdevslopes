@@ -42,13 +42,13 @@
 
 ### Biometrics And Sensitive SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/BiometricsAndSensitive_SwiftUI">Click Here</a> For Sensitive Analysis, Privacy Sensitive and FaceID.
 
-### Storages SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Storages_SwiftUI">Click Here</a> SceneStorage, AppStorage with RawRepresentable, Reduce Memory Consumption when using Large Images.
+### Storages SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Storages_SwiftUI">Click Here</a> All types of storages used in iOS App Development
+<a style="font-weight:bold;" href="https://github.com/manasdevslopes/CoreDataToJSON_JSONToCoreData_SwiftUI">CoreData To JSON & vice versa</a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/ImageSaveCoreData_SwiftUI">Image Save with other items in FileManager and CoreData</a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/FaceIDWithKeychain_SwiftUI">Face ID with Custom Keychain Property Wrapper</a>
 <br><br>
 
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftfulFirebase_SwiftUI.git">SwiftUI with Firebase by Swiftful Thinking</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/CoreDataToJSON_JSONToCoreData_SwiftUI">CoreData To JSON & vice versa</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/ImageSaveCoreData_SwiftUI">Image Save with other items in FileManager and CoreData</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/FaceIDWithKeychain_SwiftUI">Face ID with Custom Keychain Property Wrapper</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_4_Accessory">SwiftUI all new stuffs, UIs, Core concept etc</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/BarcodeTextScanner_SwiftUI_VisionKit">QrCode Generator, Reader in normal, pick from Photos & VisionKit. Also, save it in PNG, PDF (PDFKit) & Photos. Much more.</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/iOS15WidgetKitSwiftUI">Diff. collections of widgets using SwiftUI in iOS 15</a>
