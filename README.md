@@ -46,7 +46,10 @@
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/CoreDataToJSON_JSONToCoreData_SwiftUI">CoreData To JSON & vice versa</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/ImageSaveCoreData_SwiftUI">Image Save with other items in FileManager and CoreData</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/FaceIDWithKeychain_SwiftUI">Face ID with Custom Keychain Property Wrapper</a>
-<br><br>
+<br>
+
+### AppIntents SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/AppIntents_SwiftUI">Click Here</a>
+<br>
 
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftfulFirebase_SwiftUI.git">SwiftUI with Firebase by Swiftful Thinking</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_4_Accessory">SwiftUI all new stuffs, UIs, Core concept etc</a>
