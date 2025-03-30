@@ -48,12 +48,11 @@
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/FaceIDWithKeychain_SwiftUI">Face ID with Custom Keychain Property Wrapper</a>
 <br>
 
-### AppIntents SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/AppIntents_SwiftUI">Click Here</a>
+### AppIntents SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/AppIntents_SwiftUI">Click Here</a> And <a style="font-weight:bold;" href="https://github.com/manasdevslopes/BarcodeTextScanner_SwiftUI_VisionKit">QrCode Generator, Reader in normal, pick from Photos & VisionKit. Also, save it in PNG, PDF (PDFKit) & Photos. Much more.</a>
 <br>
 
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftfulFirebase_SwiftUI.git">SwiftUI with Firebase by Swiftful Thinking</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_4_Accessory">SwiftUI all new stuffs, UIs, Core concept etc</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/BarcodeTextScanner_SwiftUI_VisionKit">QrCode Generator, Reader in normal, pick from Photos & VisionKit. Also, save it in PNG, PDF (PDFKit) & Photos. Much more.</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/iOS15WidgetKitSwiftUI">Diff. collections of widgets using SwiftUI in iOS 15</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/AnimateAnythingWithSwiftUI">Animate Anything with SwiftUI</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/AlternateAppIconSwiftUI">Alternate App Icon</a>
