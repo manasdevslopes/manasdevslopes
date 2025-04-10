@@ -31,7 +31,7 @@
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Basics">Swift Basics</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_All_Rounders">SwiftUI All Rounders</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftlyLearners_iOSInterview">SwiftlyLearners</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Advanced_Topics">Swift Advanced Topics - inout / Variadic / tuple / Closure / Initializers / KeyPath / Subscripts / SafeArea - safeAreaInset - ScrollViewReader (for scroll to proxy) / AlignmentGuides / Extensions </a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Advanced_Topics">Swift Advanced Topics - inout / Variadic / tuple / Closure / Initializers / KeyPath / Subscripts / SafeArea - safeAreaInset - ScrollViewReader (for scroll to proxy) / AlignmentGuides / Extensions / Self (refers to the type itself (not an instance)) Vs self (refers to the current instance of the type) </a>
 <br><br>
 
 ### SwiftUI UI Topics : 
