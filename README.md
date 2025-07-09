@@ -32,7 +32,7 @@
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Basics">Swift Basics</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_All_Rounders">SwiftUI All Rounders</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftlyLearners_iOSInterview">SwiftlyLearners</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Advanced_Topics">Swift Advanced Topics - inout / Variadic / tuple / Closure / Initializers / KeyPath / Subscripts / SafeArea - safeAreaInset - ScrollViewReader (for scroll to proxy) / AlignmentGuides / Extensions / Self (refers to the type itself (not an instance)) Vs self (refers to the current instance of the type) </a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Advanced_Topics">Swift Advanced Topics - inout / Variadic / tuple / Closure / Initializers / KeyPath / Subscripts / SafeArea - safeAreaInset - ScrollViewReader (for scroll to proxy) / AlignmentGuides / Extensions / Self (refers to the type itself (not an instance)) Vs self (refers to the current instance of the type), Decoding Property Lists Playground Project </a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/iOSLifeCyclesSwiftUI">iOS LifeCycle methods - AppDelegate, SceneDelegate, scenePhase, SwiftUI Views, Push notification, deep Link.</a>
 
 ### iOS Swift Concurrency : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_Concurrency">Swift Concurrency</a>
