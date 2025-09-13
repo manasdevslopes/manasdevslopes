@@ -52,7 +52,7 @@
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/FaceIDWithKeychain_SwiftUI">Face ID with Custom Keychain Property Wrapper</a>
 <br>
 
-### AppIntents SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/AppIntents_SwiftUI">Click Here</a> And <a style="font-weight:bold;" href="https://github.com/manasdevslopes/BarcodeTextScanner_SwiftUI_VisionKit">QrCode Generator, Reader in normal, pick from Photos & VisionKit. Also, save it in PNG, PDF (PDFKit) & Photos. Much more.</a>
+### AppIntents / SiriShortcuts SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/AppIntents_SwiftUI">Click Here</a> And <a style="font-weight:bold;" href="https://github.com/manasdevslopes/BarcodeTextScanner_SwiftUI_VisionKit">QrCode Generator, Reader in normal, pick from Photos & VisionKit. Also, save it in PNG, PDF (PDFKit) & Photos. Much more.</a>
 <br>
 
 ### MacOS Apps SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/MacOSApps_SwiftUI">Click Here</a> EasyScreenshot App with DMG creation steps And <a style="font-weight:bold;" href="https://github.com/manasdevslopes/IconGeneratorMacOSAppSwiftUI">Icon Generator Mac App</a>
