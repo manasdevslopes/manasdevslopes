@@ -24,7 +24,7 @@
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/StrongVsWeakVsUnowned_Swift">Strong Vs Weak Vs Unowned (Memory Management)</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/NavigationStacks_iOS16_SwiftUI">Navigation Stacks iOS 16</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Colors">Swift Colors</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Camera_AVFoundation_SwiftUI">Camera & QR code Reader with AVFoundation SwiftUI with Custom Button</a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Camera_AVFoundation_SwiftUI">Camera & QR code Reader with AVFoundation SwiftUI with Custom Button with Custom ALert</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/MusicPlayer_SwiftUI">Basic Music Player with Dynamic Island & Live Activity (Basic)</a>
 <br><br>
 
