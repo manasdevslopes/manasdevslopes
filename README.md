@@ -39,7 +39,7 @@
 ### iOS Swift Concurrency : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_Concurrency">Swift Concurrency</a>
 
 ### SwiftUI UI Topics : 
-<a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_UI_Topics">Matched Geometry Effect, Geometry Reader, Date Formats, TextView Styling, SizeClass SwiftUI, Custom Keyboard, TextField Menu, Dynamic Multi-Step ProgressBar, Optional Modifiers, Placeholder, Manual Orientation, Floating Bottom Sheet, App Scheme Changer, SFSymbol Effects, Custom Calendar, Phase Animations, Custom Alert View, Verification Code, Showcase tooltip View POC with LocalisationManager, Custom Checkbox, Timer Status Logic</a>
+<a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_UI_Topics">Matched Geometry Effect, Geometry Reader, Date Formats, TextView Styling, SizeClass SwiftUI, Custom Keyboard, TextField Menu, Dynamic Multi-Step ProgressBar, Optional Modifiers, Placeholder, Manual Orientation, Floating Bottom Sheet, App Scheme Changer, SFSymbol Effects, Custom Calendar, Phase Animations, Custom Alert View, Verification Code, Showcase tooltip View POC with LocalisationManager, Custom Checkbox, Timer Status Logic, MultiSlider with min and max value</a>
 <br><br>
 
 ### Notifs SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Notifs_SwiftUI">Click Here</a> NotificationCenter with Post, Observer and Publisher, Local Notifications, Push Notification and its sources including links for testing in Simulator.
