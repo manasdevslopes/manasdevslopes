@@ -1,4 +1,4 @@
-### Hola, I'm <a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">Manas Vijaywargiya!</a> :wave:
+### Hello, I'm <a href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">Manas Vijaywargiya!</a> :wave:
 ### I'm an extremely passionate about iOS App Development using Swift | SwiftUI
 
 :telescope: <a href="https://blacenova.wordpress.com/2021/01/17/first-steps-in-swift/">Read SwiftUI Blogs</a>  🌱 <a style="font-weight:bold;" href="https://kanishkvijaywargiya.github.io/uicolorpicker.github.io/">UI Color Picker</a>  :telescope: <a href="https://gist.github.com/manasdevslopes">Read SwiftUI Gists</a>
@@ -6,6 +6,8 @@
 <br>
 ### These are all my Swift Packages using SwiftUI - <br><a href="https://github.com/manasdevslopes/AwesomeToastPackage">Awesome Toast</a><br><a href="https://github.com/manasdevslopes/AwesomeNetworkPackage">Awesome Netowrk</a>
 <br>
+
+### Download My Apps from: <a style="font-weight:bold;" href="https://apps.apple.com/in/developer/manas-vijaywargiya/id1818375199">&nbsp;App Store</a> 
 
 <br>
 
@@ -88,11 +90,6 @@
 ### Languages and Tools I worked on:
 
 SwiftUI | Swift | SPM | HTML5 | CSS3 | Sass | ReactNative | Xcode | iOS | Visual Studio Code | Firebase | GitHub | UIKit
-
-<br>
-
-### Download Our Apps from: <a style="font-weight:bold;" href="https://play.google.com/store/search?q=com.blacenova&c=apps&hl=en_IN">&nbsp;Play Store</a> 
-
 
 ### iOS Interview Preparations: 
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_All_Rounders">SwiftUI All Rounders </a>
