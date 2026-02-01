@@ -22,6 +22,7 @@
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Razorpay_SwiftUI">Razorpay Demo App in SwiftUI (Private Repo)</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/GraphQL_SwiftUI">GraphQL</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/XcodeSchemes_SwiftUI">Xcode Schemes & Configurations</a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SSLWithURLSession_SwiftUI">SSL With URL Session SwiftUI</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Coordinator_SwiftUI">SwiftfUI Coordinators</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/StrongVsWeakVsUnowned_Swift">Strong Vs Weak Vs Unowned (Memory Management)</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/NavigationStacks_iOS16_SwiftUI">Navigation Stacks iOS 16</a>
