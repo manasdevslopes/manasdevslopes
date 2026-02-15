@@ -45,7 +45,7 @@
 ### iOS Swift Concurrency : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_Concurrency">Swift Concurrency</a>
 
 ### SwiftUI UI Topics : 
-<a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_UI_Topics">Matched Geometry Effect, Geometry Reader, Date Formats, TextView Styling, SizeClass SwiftUI, Custom Keyboard, TextField Menu, Dynamic Multi-Step ProgressBar, Optional Modifiers, Placeholder, Manual Orientation, Floating Bottom Sheet, App Scheme Changer, SFSymbol Effects, Custom Calendar, Phase Animations, Custom Alert View, Verification Code, Showcase tooltip View POC with LocalisationManager & HyperlinkedTextLabel, Custom Checkbox, Timer Status Logic, MultiSlider with min and max value, Haptic Events</a>
+<a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI_UI_Topics">App Scheme Changer, BannerToast, Custom Checkbox, Custom Calendar, Custom Alert View, Custom Keyboard with suffled keys, Date Formats, Dynamic Dynamic Multi-Step ProgressBar, Floating Bottom Sheet, Geometry Reader, Haptic Events, Image-Carousel, Manual Orientation, Matched Geometry Effect, MultiSlider with min and max value, MyWorkouts with Custom Calendar, Optional Modifiers, Phase Animations, Placeholder, SFSymbol Effects, Save Creds In iCloud, Showcase tooltip View POC with LocalisationManager & HyperlinkedTextLabel & side drawer navigations, SizeClass, TextField Menu, TextView Styling, Timer Status Logic, Verification Code</a>
 <br><br>
 
 ### Notifs SwiftUI : <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Notifs_SwiftUI">Click Here</a> NotificationCenter with Post, Observer and Publisher, Local Notifications, Push Notification and its sources including links for testing in Simulator.
