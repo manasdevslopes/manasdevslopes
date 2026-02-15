@@ -101,6 +101,8 @@ SwiftUI | Swift | SPM | HTML5 | CSS3 | Sass | ReactNative | Xcode | iOS | Visual
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftlyLearners_iOSInterview">Swiftly Learners</a>
 <br><br>
 
+### Gists Items: MyButtonViewClosure, ExtensionOfScreenshotPreventingMask, GenericCarousel, PhoneCallModifier, HapticFeedback, ShowUIKitFullScreenModal, CardBackgroundModifier, SafeAreaInsetModifier, KeywordExtraction, View+Extensions, String+Extensions, JSONDecoder, ShimmerEffectModifier, Color+Extensions, Markdowns
+
 <br>
 Reach me via 👇
 <br><a style="font-weight:bold;" href="https://www.instagram.com/_iosmanas/">Instagram</a>
