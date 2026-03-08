@@ -29,6 +29,7 @@
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Colors">Swift Colors</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Camera_AVFoundation_SwiftUI">Camera & QR code Reader with AVFoundation SwiftUI with Custom Button with Custom ALert</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/MusicPlayer_SwiftUI">Basic Music Player with Dynamic Island & Live Activity (Basic)</a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Universal_Links_SwiftUI">Universal Link Example in SwiftUI</a>
 <br><br>
 
 ### iOS 26 Features SwiftUI: <a style="font-weight:bold;" href="https://github.com/manasdevslopes/iOS-26-Features-SwiftUI">iOS-26-Features-SwiftUI</a>
