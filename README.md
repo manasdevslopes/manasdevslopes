@@ -17,6 +17,8 @@
 
 ### Best of my iOS Works: 
 <a style="font-weight:bold;" href="https://github.com/manasdevslopes/Apple_Kits_SwiftUI">Apple Kits</a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Apple_Wallet_SwiftUI">Add to Apple Wallet using SwiftUI & backend with node.js</a>
+<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Universal_Link_with_RSA_SwiftUI">Universal Link in iOS with RSA Encryption / Decryption, Keychain storage Manager, DeepLink Manager, Firebase Hosting</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/AppClips_SwiftUI">AppClips Example with Notification (custom sound) & Testing on iPhone with Local Experience</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/MapKit_SwiftUI">Map Kit (Also available left-to-right Scrolling behaviour)</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Razorpay_SwiftUI">Razorpay Demo App in SwiftUI (Private Repo)</a>
@@ -29,7 +31,6 @@
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Swift_Colors">Swift Colors</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Camera_AVFoundation_SwiftUI">Camera & QR code Reader with AVFoundation SwiftUI with Custom Button with Custom ALert</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/MusicPlayer_SwiftUI">Basic Music Player with Dynamic Island & Live Activity (Basic)</a>
-<br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Universal_Links_SwiftUI">Universal Link Example in SwiftUI</a>
 <br><br>
 
 ### iOS 26 Features SwiftUI: <a style="font-weight:bold;" href="https://github.com/manasdevslopes/iOS-26-Features-SwiftUI">iOS-26-Features-SwiftUI</a>
