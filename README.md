@@ -77,6 +77,9 @@
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/Medi_Tracker_SwiftUI/tree/development">Meditracker App</a>
 <br><a style="font-weight:bold;" href="https://github.com/manasdevslopes/HealthKit_iOS_App_SwiftUI">HealthKit App</a>
 <br><a style="font-weight:bold;" href="https://github.com/KanishkVijaywargiya/FoodZap/tree/Development">FoodZap App</a>
+<br>
+
+### App Store Project Links - <a style="font-weight:bold;" href="https://github.com/manasdevslopes/qrixel_qr_pixel_swiftui"></a>, <a style="font-weight:bold;" href="https://github.com/manasdevslopes/dhwani_lyrics_SwiftUI"></a>
 
 
 
