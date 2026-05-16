@@ -79,7 +79,7 @@
 <br><a style="font-weight:bold;" href="https://github.com/KanishkVijaywargiya/FoodZap/tree/Development">FoodZap App</a>
 <br>
 
-### App Store Project Links - <a style="font-weight:bold;" href="https://github.com/manasdevslopes/qrixel_qr_pixel_swiftui"></a>, <a style="font-weight:bold;" href="https://github.com/manasdevslopes/dhwani_lyrics_SwiftUI"></a>
+### App Store Project Links - <a style="font-weight:bold;" href="https://github.com/manasdevslopes/qrixel_qr_pixel_swiftui">qrixel_qr_pixel_swiftui</a>, <a style="font-weight:bold;" href="https://github.com/manasdevslopes/dhwani_lyrics_SwiftUI">dhwani_lyrics_SwiftUI</a>
 
 
 
