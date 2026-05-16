@@ -11,7 +11,8 @@
 
 <br>
 
-🌱 For SwiftUI docs & projects, use this link. <a style="font-weight:bold;" href="https://github.com/KanishkVijaywargiya/SwiftUI.readme/blob/main/README.md">SwiftUI</a>
+🌱 For SwiftUI docs & projects, use this link. <a style="font-weight:bold;" href="https://github.com/KanishkVijaywargiya/SwiftUI.readme/blob/main/README.md">SwiftUI</a><br>
+🌱 SwiftUI Advanced Architecture Apps - Check Details in ReadMe <a style="font-weight:bold;" href="https://github.com/manasdevslopes/SwiftUI-Advanced-Architecture/tree/main">Click here</a>
 <br>
 
 
